@@ -1,0 +1,38 @@
+body {
+  background-color: #0A5E6D
+}
+
+h1 {
+text-align: center;
+font-style: italic;
+font-weight: bold;
+color: white;
+}
+h2 {
+  text-align: center;
+  color: #dcdcdc;
+  margin-top: 50px;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+  border: solid;
+  border-width: thin;
+  border-color: #dcdcdc;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+a {
+  color: #dcdcdc;
+  text-align: center;
+  display: block;
+}
+
+p {
+  line-height: 40px;
+  margin-top: 50px;
+}
